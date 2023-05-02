@@ -1,5 +1,5 @@
 {
-  "questions":
+  "questions":[
   {
     "question": "select animals",
     "all_words": [
@@ -63,5 +63,5 @@
       "bus",
       "train"
     ]
-  }
+  }]
 }
